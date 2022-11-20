@@ -1,7 +1,7 @@
 
 <h1>A place for web3
-professionals to
-Connect | Create | Build | Earn</h1>
+professionals to</h1>
+<h1>Connect | Create | Build | Earn</h1>
 <p class="lead color-primary">A global, decentralized network to find people to do the work you need done.
 Build your team and get work done.</p>
 
